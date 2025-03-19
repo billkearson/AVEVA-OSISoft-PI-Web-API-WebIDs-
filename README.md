@@ -15,15 +15,15 @@ Download or pull the repository and open the solution in Visual Studio. Copy the
 * Variables stored in a .env file
 Create a .env file or copy the .env-sample file and rename it. Populate this file with the needed information using a Name=Value format, per line. 
 
-* Environment variable file
-PIAPISERVER=piapiservername		
-PIAPISERVERPORT=443
-PIAPIUSERNAME=piapiusername
-PIAPIPASSWORD=piapipassword
-PISERVER=piservername
-DEBUG=true
-ENABLESSLVALIDATION=true
-USEDEFAULTCREDENTIALS=true
+* Environment variable file  
+PIAPISERVER=piapiservername  		
+PIAPISERVERPORT=443  
+PIAPIUSERNAME=piapiusername  
+PIAPIPASSWORD=piapipassword  
+PISERVER=piservername  
+DEBUG=true  
+ENABLESSLVALIDATION=true  
+USEDEFAULTCREDENTIALS=true  
 
 
 ## Built With
